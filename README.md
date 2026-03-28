@@ -2,7 +2,6 @@
 I am a **master’s student** with research interests in:  
 - Hyperspectral remote sensing image classification  
 - Deep learning  
-- Point cloud classification  
 - Multimodal learning
 
 I am currently self-studying:  

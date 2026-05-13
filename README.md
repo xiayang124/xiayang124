@@ -1,5 +1,5 @@
 ## Self-Introduction
-I am a **master’s student** with research interests in:  
+I am a **first-year master's student** with research interests in:  
 - Hyperspectral remote sensing image classification  
 - Deep learning  
 - Multimodal learning

@@ -4,11 +4,10 @@ I am a **first-year master's student** with research interests in:
 - Deep learning  
 - Multimodal learning
 
-I am currently self-studying:  
-- Abstract algebra  
-- Fundamental topology  
-
 At the same time, I am actively building and maintaining my **GitHub profile** to document and share my research and projects.
+
+**Github Page:**
+- https://xiayang124.github.io/
 
 **Programming Languages:**  
 - Primary: Python  
